@@ -2,4 +2,5 @@
 void main(){
 printf("Hello World");
 printf("Updated from mumbai server");
+printf("Updated from singapore server");
 }
