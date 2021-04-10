@@ -1,1 +1,2 @@
 my name is common.txt
+hi,i am common to both branches.
